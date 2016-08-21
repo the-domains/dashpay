@@ -1,25 +1,14 @@
-typography_spectrum: 0.5835984339937568
+layout_spectrum: 0.05058109830133617
+typography_spectrum: 0.9258198891766369
 color:
-  brandStrength: 0.16190054547041655
-  lightness: 0.14096274320036173
-  saturation: 0.56584980385378
-  rhythmicContrast: 0.16417143307626247
+  brandStrength: 0.400077972561121
+  lightness: 0.5202461436856538
+  saturation: 0.9138486299198121
+  rhythmicContrast: 0.5632624479476362
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.2785734413191676
-author:
-  email: dashpay.dk@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb859f1-6a25-4ef7-b1a7-f77765817dcf.png
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: DASHPAY
-navigation:
-  - name: DASH.org
-    url: 'https://www.dash.org/'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9209fd14-5a09-43cd-95b4-66d41266bd92.png
-title: DASH is digital cash
