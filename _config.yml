@@ -16,6 +16,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb859f1-6a25-4ef7-b1a7-f77765817dcf.png
 name: DASHPAY
+navigation:
+  - name: DASH.org
+    url: 'https://www.dash.org/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9209fd14-5a09-43cd-95b4-66d41266bd92.png
 title: DASH is digital cash
