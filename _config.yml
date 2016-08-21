@@ -1,0 +1,14 @@
+layout_spectrum: 0.05058109830133617
+typography_spectrum: 0.9258198891766369
+color:
+  brandStrength: 0.400077972561121
+  lightness: 0.5202461436856538
+  saturation: 0.9138486299198121
+  rhythmicContrast: 0.5632624479476362
+  brandColors:
+    - '#1C75BC'
+    - '#00609F'
+    - '#000000'
+    - '#103E68'
+    - '#000055'
+name: DASHPAY
